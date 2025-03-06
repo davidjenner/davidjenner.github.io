@@ -25,9 +25,9 @@ author:
   avatar           : "profile.png"
   name             : "David Jenner"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Father, IT Technician, lives by the sea!"
+  location         : "Bournemouth, United Kingdom"
+  employer         : "NHS"
   uri              : # URL
   email            : "none@example.org" 
 
@@ -45,12 +45,11 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
-  kaggle           : # Username  
+  github           : "davidjenner"
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : "davidjenner.cc" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
