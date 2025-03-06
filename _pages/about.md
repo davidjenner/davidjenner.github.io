@@ -1,13 +1,11 @@
 ---
 permalink: /
-title: "About David Jenner"
+title: "👋 About Me - David Jenner"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
----
-
-# 👋 About Me - David Jenner  
+---  
 
 ## 🏠 Based in Bournemouth, UK  
 I'm an **IT Support Technician (2nd Line)** with **2 years of industry experience**, specializing in **Google Workspace, Microsoft 365, Azure, and IT Support**. I hold an **ITILv4 certification** and have a background in **web design and customer service**.  
