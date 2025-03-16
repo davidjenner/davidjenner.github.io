@@ -12,7 +12,7 @@ redirect_from:
 # David Jenner
 
 **West Cliff, Bournemouth, BH4**  
-**Email:** david.a.jenner@gmail.com  
+**Email:** ibxgvpuoq@mozmail.com 
 **LinkedIn:** [davidjenner6](https://www.linkedin.com/in/davidjenner6)  
 **Google Dev:** [davidjenner6](https://g.dev/davidjenner6)  
 **Mobile:** +447398215808  
