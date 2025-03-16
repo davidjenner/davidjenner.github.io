@@ -29,15 +29,15 @@ author:
   location         : "Bournemouth, United Kingdom"
   employer         : "NHS"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "ibxgvpuoq@mozmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : # URL
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : # URL
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL
   researchgate     : # URL
   scopus           : # URL
 
@@ -56,9 +56,9 @@ author:
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : # Username
+  Instagram        : "imdavidjenner"
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "davidjenner6"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -71,7 +71,7 @@ author:
   weibo            : # Username
   wikipedia        : # Username
   xing             : # Username
-  youtube          : # Username
+  youtube          : "davidjenner"
   zhihu            : # Username
 
 # Publication Category - The following the list of publication categories and their headings
