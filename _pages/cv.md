@@ -11,7 +11,7 @@ redirect_from:
 
 # David Jenner
 
-**West Cliff, Bournemouth, BH4**  
+**Bournemouth, BH4**  
 **Email:** [Email me via relay] (ibxgvpuoq@mozmail.com)<br>
 **LinkedIn:** [davidjenner6](https://www.linkedin.com/in/davidjenner6)  
 **Google Dev:** [davidjenner6](https://g.dev/davidjenner6)  
