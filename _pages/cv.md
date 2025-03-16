@@ -12,7 +12,7 @@ redirect_from:
 # David Jenner
 
 **Bournemouth, BH4**  
-**Email:** [Email me via Relay](ibxgvpuoq@mozmail.com)<br>
+**Email:** [Email me via Relay](mailto:ibxgvpuoq@mozmail.com)<br>
 **LinkedIn:** [davidjenner6](https://www.linkedin.com/in/davidjenner6)  
 **Google Dev:** [davidjenner6](https://g.dev/davidjenner6)  
 **Mobile:** +447398215808
