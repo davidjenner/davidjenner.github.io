@@ -22,7 +22,7 @@ repository               : "davidjenner/davidjenner.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "https://github.com/davidjenner/davidjenner.github.io/blob/master/david-jenner-profile-pic.jpg"
+  avatar           : "/david-jenner-profile-pic.jpg"
   name             : "David Jenner"
   pronouns         : # example: "she/her"  
   bio              : "Father, IT Technician, lives by the sea!"
