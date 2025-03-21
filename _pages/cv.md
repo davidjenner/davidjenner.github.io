@@ -27,27 +27,23 @@ redirect_from:
 
 Seeking a **full-time, permanent IT role** within a **5-mile radius of Bournemouth or Poole**.  
 - **Location Preference:** Bournemouth/Poole (not willing to commute to Hants or Wilts).  
-- **Work Mode:** On-site preferred, hybrid acceptable, **no remote work** for now.  
+- **Work Mode:** Hybrid preferred, on-site and remote acceptable.
 - **Job Type:** No contract or temp work.  
 - **Availability:** One-month notice period.  
-- **Salary Expectation:** £28K – £32K.  
+- **Salary Expectation:** £32K – £34K.  
 
 ---
 
 ## Technical Skills
 
 ### General IT Skills
-- Veeam Backup  
-- VirtualBox  
 - Windows 11  
-- PowerShell  
-- GitHub  
+- Windows 10  
 - macOS (10+ years)  
 
 ### Google Software Experience
 - Google Workspace / GSuite  
-- Google Analytics & GCS  
-- Google Data Studio  
+- Google Analytics & GCS 
 - Google Cloud Console  
 
 ### Microsoft Software Experience
