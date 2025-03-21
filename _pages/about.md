@@ -13,6 +13,9 @@ I'm an **IT Support Technician (2nd Line)** with **3 years of industry experienc
 ## 🎯 Career Goals  
 Currently seeking a **full-time, permanent IT role** within **Bournemouth or Poole** (on-site or hybrid). Passionate about **networking, cybersecurity, and ethical hacking**, which I actively study to enhance my technical expertise.  
 
+## 🌟 Project: [haphazard.ai](https://haphazard.ai)  
+**haphazard.ai** is a productivity tool designed to assist neurodivergent individuals with ADHD, Dyslexia, and Autism. It provides AI-powered tools for time management, task organization, and accessibility enhancements, such as reading and writing support. By tailoring features to unique needs, haphazard.ai empowers users to achieve their goals and unlock their full potential.
+
 ## 🛠️ Technical Skills  
 ### Microsoft & Google Technologies  
 - **Google Workspace / GSuite, Google Analytics, Google Cloud Console**  
