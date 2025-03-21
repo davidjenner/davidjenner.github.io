@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : "bio-photo.jpg"
   name             : "David Jenner"
-  pronouns         : # example: "she/her"  
+  pronouns         : "he/him"  
   bio              : "Father, IT Technician, lives by the sea!"
   location         : "Bournemouth, United Kingdom"
   employer         : "NHS"
@@ -72,7 +72,7 @@ author:
   wikipedia        : # Username
   xing             : # Username
   youtube          : "davidjenner"
-  zhihu            : # Username
+  Indeed           : "https://profile.indeed.com/p/davidj-9k7561g"
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
