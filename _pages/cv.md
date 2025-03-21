@@ -19,7 +19,7 @@ redirect_from:
 
 **Full, clean driving license / Owns car**  
 **British National / UK Citizen**  
-**ITILv4 Certified / 2 Years 2nd Line IT Industry Experience**
+**ITILv4 Certified / 3 Years 2nd Line IT Industry Experience**
 
 ---
 
@@ -95,6 +95,7 @@ Designed, developed, and hosted **WordPress websites** to improve online presenc
 
 ### Older Experience
 More details on **[LinkedIn](https://www.linkedin.com/in/davidjenner6)**.
+Granular details **[Notion](https://davidjennerdetailedcv.notaku.site/)**
 
 ---
 
