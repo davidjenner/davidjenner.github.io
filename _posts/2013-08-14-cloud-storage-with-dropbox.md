@@ -10,6 +10,7 @@ tags:
 ---
 
 In an increasingly digital world, the way we manage, store, and access information has transformed beyond recognition. Gone are the days of carrying USB drives, bulky hard disks, or stacks of physical documents. Instead, the future of storage is here—and it lives in the cloud.
+------
 
 ![Dropbox Cloud Storage](/images/cloud-storage-files going to-cloud-in-sky-from-houses-in-street-cityscapr-blog-post-image.png)
 
