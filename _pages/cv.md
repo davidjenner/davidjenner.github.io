@@ -12,10 +12,8 @@ redirect_from:
 # David Jenner
 
 **Bournemouth, BH4**  
-**Email:** [Email me via Relay](mailto:ibxgvpuoq@mozmail.com)<br>
-**LinkedIn:** [davidjenner6](https://www.linkedin.com/in/davidjenner6)  
+**Email:** [Email me via Relay](mailto:ibxgvpuoq@mozmail.com)<br> 
 **Google Dev:** [davidjenner6](https://g.dev/davidjenner6)  
-**Mobile:** +447398215808
 
 **Full, clean driving license / Owns car**  
 **British National / UK Citizen**  
@@ -30,7 +28,7 @@ Seeking a **full-time, permanent IT role** within a **5-mile radius of Bournemou
 - **Work Mode:** Hybrid preferred, on-site and remote acceptable.
 - **Job Type:** No contract or temp work.  
 - **Availability:** One-month notice period.  
-- **Salary Expectation:** £32K – £34K.  
+- **Salary Expectations:** £32K – £34K.  
 
 ---
 
@@ -89,10 +87,6 @@ Designed, developed, and hosted **WordPress websites** to improve online presenc
 - **Handled customer queries via Outlook & Excel**  
 - **Processed mobile phone repairs & replacements**  
 
-### Older Experience
-More details on **[LinkedIn](https://www.linkedin.com/in/davidjenner6)**.
-Granular details **[Notion](https://davidjennerdetailedcv.notaku.site/)**
-
 ---
 
 ## Education
@@ -130,3 +124,7 @@ Granular details **[Notion](https://davidjennerdetailedcv.notaku.site/)**
 - **Windows Server 2016: DNS & Active Directory**  
 
 --- 
+
+### Older Experience
+More details on **[LinkedIn](https://www.linkedin.com/in/davidjenner6)**.
+Granular details **[Notion](https://davidjennerdetailedcv.notaku.site/)** 
