@@ -14,8 +14,8 @@ redirect_from:
 **Bournemouth, BH4**  
 **Full, clean driving license / Owns car**  
 **British National / UK Citizen**  
-**ITILv4 Service Management Certified**
-**3 Years 2nd Line IT Industry Experience**
+**ITILv4 Service Management Certified**  
+**3+ Years 2nd Line IT Industry Experience**  
 
 ---
 
@@ -23,7 +23,7 @@ redirect_from:
 
 Seeking a **full-time, permanent IT role** within a **5-mile radius of Bournemouth or Poole**.  
 - **Location Preference:** Bournemouth/Poole (not willing to commute to Hants or Wilts).  
-- **Work Mode:** Hybrid preferred, on-site and remote acceptable.
+- **Work Mode:** Hybrid preferred, on-site and remote acceptable.  
 - **Job Type:** No contract or temp work.  
 - **Availability:** One-month notice period.  
 - **Salary Expectations:** £32K – £34K.  
@@ -38,16 +38,19 @@ Seeking a **full-time, permanent IT role** within a **5-mile radius of Bournemou
 - macOS (10+ years)  
 
 ### Google Software Experience
-- Google Workspace / GSuite  
-- Google Analytics & GCS 
-- Google Cloud Console  
+- Google Workspace / G Suite  
+- Google Analytics & Google Cloud Console  
 
 ### Microsoft Software Experience
-- Windows 10 Pro  
-- Microsoft Office 365 (Word, Excel, PowerPoint)  
-- Microsoft Edge & Teams  
+- Windows 10 Pro & Windows 11  
+- Microsoft Office 365 (Word, Excel, PowerPoint, Teams)  
 - Microsoft Azure / Entra & Intune (Azure MDM)  
 - Copilot & ChatGPT 3.5  
+
+### Networking and Security
+- DNS & Active Directory (Windows Server 2016)  
+- Wireshark Network Analysis  
+- Ethical Hacking Fundamentals  
 
 ---
 
@@ -55,74 +58,89 @@ Seeking a **full-time, permanent IT role** within a **5-mile radius of Bournemou
 
 ### **IT Project Desktop Technician (2nd Line)**  
 **University Hospitals Dorset NHS Foundation Trust**  
-(March 2022 – Present)  
-Worked in **Desktop Support (BAU)**, handling **software & hardware issues** across 3 hospitals via tickets, email, Teams, phone, and in-person support.  
+*(March 2022 – Present)*  
+Provided **2nd Line IT Support** for software and hardware issues across three hospitals via tickets, email, Teams, phone, and in-person support.  
 
-- **Specialized in iOS device support**  
-- **Replaced old iPhones** in collaboration with the Telecom Team  
-- Managed **Windows PCs, iPhones & iPads** using Azure, SCCM & Intune  
-- Used **Teams, Excel, SharePoint & Planner** for organization  
-- Confident in **updating iOS & Windows devices for business use**  
-- **Updated Avanti ticketing system** for team efficiency  
-- Packaged & deployed software via **Software Centre**  
-- Created **Help Guides & KB articles** for user & team education  
+- **iOS Device Specialist:** Managed, replaced, and supported iPhones and iPads in collaboration with the Telecom Team.  
+- **Windows Systems Management:** Supported Windows PCs using Azure, SCCM, and Intune.  
+- **Collaboration Tools:** Used Teams, SharePoint, and Planner for internal organization.  
+- **Software Packaging:** Packaged and deployed software via Software Centre.  
+- **Knowledge Sharing:** Created Help Guides and Knowledge Base articles for the team and end-users.  
+- **Avanti Ticketing System:** Regularly updated the system for improved efficiency and reporting.  
 
 ---
 
 ### **Web Designer**  
-**BWR Web Design** (July 2019 – February 2022)  
-Designed, developed, and hosted **WordPress websites** to improve online presence.  
+**BWR Web Design**  
+*(July 2019 – February 2022)*  
+Designed and hosted **WordPress websites** for a diverse range of clients.  
 
-- Provided **remote support via TeamViewer**  
-- Managed **Office 365 email setup**  
-- Provided **out-of-hours support** for urgent website issues  
+- Provided **remote support** for clients using TeamViewer.  
+- Set up and managed **Office 365 email systems** for businesses.  
+- Delivered **out-of-hours support** for urgent issues, ensuring minimal disruption for clients.  
 
 ---
 
-### **Customer Service**  
-**Carphone Warehouse Business** (June 2018 – June 2019)  
-- **Troubleshot mobile phone & network issues**  
-- **Handled customer queries via Outlook & Excel**  
-- **Processed mobile phone repairs & replacements**  
+### **Customer Service Advisor**  
+**Carphone Warehouse Business**  
+*(June 2018 – June 2019)*  
+- Troubleshot **mobile phone and network-related issues** for customers.  
+- Processed repairs and handled replacements for faulty devices.  
+- Managed customer queries professionally via **Outlook and Excel**.  
 
 ---
 
 ## Education
 
-### **ITILv4 Foundation in IT Service Management**  
-**PeopleCert by Axelos** (October 2023)  
+### **PeopleCert**
+**ITIL Foundation Certificate in IT Service Management** *(Effective from Oct, 2023)*  
+This essential ITIL 4 module introduces key concepts at the start of your ITIL 4 journey, providing a solid foundation for understanding IT service management and its core elements.
 
-### **Become an Ethical Hacker**  
-**LinkedIn Learning** (April 2023)  
+### **CityLit**
+**City Lit Pro: Start a Career in UX/UI Design** *(Sept, 2021 – Jan, 2022)*  
+This course equips participants with relevant skills and portfolio pieces for UX/UI positions. Key topics include cognition and technology, solution generation, accessibility guidelines, information architecture, user testing, and prototyping. Activities include creating personas and gathering data.
 
-### **UX/UI Design Course**  
-**CityLit, London** (Oct 2021 – Jan 2022)  
+### **University for Creative Arts at Farnham, Surrey**
+**BA (Hons) Graphic Communication: Consumer and Culture** *(Sept, 2008 – June 2011)*  
 
-### **BA (Hons) Graphic Communication – 2:2**  
-**University for the Creative Arts, Farnham** (2008 – 2011)  
+### **Arts University College at Bournemouth, Poole**
+**Art Foundation Diploma Level 4** *(Sept, 2007 – June, 2008)*  
 
-### **Foundation in Art and Design**  
-**Arts University Bournemouth** (2007 – 2008)  
+### **Poole High School - Sixth Form**
+**A-Levels:** ICT (B), Art (C) *(2005 – 2007)*  
 
-### **A-Levels:** Art (C), ICT (B)  
-**Poole High School** (2005 – 2007)  
-
-### **GCSEs:** 5 A–C (including Maths, English, Science)  
-**Poole High School** (2003 – 2005)  
+### **Poole High School - Secondary School**
+**GCSEs:** Achieved A–C grades in Maths, English, and Science *(2001 – 2005)*  
 
 ---
 
-## Certifications & Courses
+## Certifications & Training
 
-- **Networking Foundations: Basics** (LinkedIn Learning, 2023)  
-- **Windows 11 Essential Training** (LinkedIn Learning, 2023)  
-- **Wireshark Essential Training** (LinkedIn Learning, 2021)  
-- **Windows 10: Troubleshooting for IT Support** (LinkedIn Learning, 2023)  
-- **Microsoft Excel & PowerPoint Training (Office 365)**  
-- **Windows Server 2016: DNS & Active Directory**  
+### Certifications:
+- **Networking Foundations: Basics** *(LinkedIn Learning, 2023)*  
+- **Windows 11 Essential Training** *(LinkedIn Learning, 2023)*  
+- **Wireshark Essential Training** *(LinkedIn Learning, 2021)*  
+- **Windows 10 Troubleshooting for IT Support** *(LinkedIn Learning, 2023)*  
+- **Microsoft Excel & PowerPoint (Office 365)**  
 
---- 
+### Additional Training:
+- **DNS & Active Directory (Windows Server 2016)**  
+- **Adobe Photoshop and UX/UI Tools**  
 
-### Older Experience
-More details on **[LinkedIn](https://www.linkedin.com/in/davidjenner6)**.
-Granular details **[Notion](https://davidjennerdetailedcv.notaku.site/)** 
+---
+
+## Achievements & Interests
+
+- **Helped replace outdated iOS devices** across three hospitals, streamlining communication within departments.  
+- Successfully designed and launched multiple WordPress websites for small businesses.  
+- Passionate about **networking, cybersecurity**, and staying current with emerging IT technologies.  
+- Actively pursuing professional development through LinkedIn Learning and Microsoft resources.  
+
+---
+
+## References
+
+References available upon request.  
+
+Find more details on [LinkedIn](https://www.linkedin.com/in/davidjenner6).  
+Access the granular breakdown on [Notaku](https://davidjennerdetailedcv.notaku.site/).
