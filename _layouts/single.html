@@ -22,6 +22,11 @@ image: /path/to/first-image.jpg
     {% if page.title %}<meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
     {% if page.excerpt %}<meta itemprop="description" content="{{ page.excerpt | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
     {% if page.image %}<meta itemprop="image" content="{{ page.image }}">{% endif %}
+    <!-- social media preview -->
+        {% if page.image %}
+      <meta property="og:image" content="{{ page.image }}">
+      <meta name="twitter:image" content="{{ page.image }}">
+    {% endif %}
     {% if page.date %}<meta itemprop="datePublished" content="{{ page.date | date: "%B %d, %Y" }}">{% endif %}
     {% if page.modified %}<meta itemprop="dateModified" content="{{ page.modified | date: "%B %d, %Y" }}">{% endif %}
 
