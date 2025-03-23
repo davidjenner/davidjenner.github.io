@@ -12,9 +12,6 @@ redirect_from:
 # David Jenner
 
 **Bournemouth, BH4**  
-**Email:** [Email me via Relay](mailto:ibxgvpuoq@mozmail.com)<br> 
-**Google Dev:** [davidjenner6](https://g.dev/davidjenner6)  
-
 **Full, clean driving license / Owns car**  
 **British National / UK Citizen**  
 **ITILv4 Certified / 3 Years 2nd Line IT Industry Experience**
