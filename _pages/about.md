@@ -8,7 +8,7 @@ redirect_from:
 ---  
 
 ## 🏠 Based in Bournemouth, UK  
-I'm an **IT Support Technician (2nd Line)** with **3 years of industry experience**, specializing in **Google Workspace, Microsoft 365, Azure, and IT Support**. I hold an **ITILv4 certification** and have a background in **web design and customer service**.  
+I'm an **IT Support Technician (2nd Line)** with **3 years of industry experience**, specialising in **Google Workspace, Microsoft 365, Azure, and IT Support**. I hold an **ITILv4 certification** and have a background in **web design and customer service**.  
 
 ## 🎯 Career Goals  
 Currently seeking a **full-time, permanent IT role** within **Bournemouth or Poole** (on-site or hybrid). Passionate about **networking, cybersecurity, and ethical hacking**, which I actively study to enhance my technical expertise.  
