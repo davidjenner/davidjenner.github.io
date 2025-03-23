@@ -14,7 +14,8 @@ redirect_from:
 **Bournemouth, BH4**  
 **Full, clean driving license / Owns car**  
 **British National / UK Citizen**  
-**ITILv4 Certified / 3 Years 2nd Line IT Industry Experience**
+**ITILv4 Service Management Certified
+**3 Years 2nd Line IT Industry Experience**
 
 ---
 
