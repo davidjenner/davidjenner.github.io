@@ -39,15 +39,15 @@ Transparency is key on Fiverr. Every freelancer provides upfront pricing and cle
 
 ## 📷 Inspiring Creativity Around the World
 
-![Freelancer at work](https://source.unsplash.com/800x400/?freelancer)
+![Freelancer at work](https://imgur.com/a/U6bAWLB)
 
 Fiverr empowers creative professionals globally by giving them a platform to showcase their skills. It's a hub for innovation where freelancers can thrive and clients can benefit from their expertise.
 
-## 🎥 Discover Fiverr Through Video
+<!-- ## 🎥 Discover Fiverr Through Video
 
 [![What is Fiverr?](https://img.youtube.com/vi/BGjAwdSr1Ok.jpg)](https://www.youtube.com/watch?v=BGjAwdSr1Ok)
 
-Watch this video to explore how Fiverr works and how it connects you with top-notch talent.
+Watch this video to explore how Fiverr works and how it connects you with top-notch talent. -->
 
 ## 🚀 Why Fiverr is Ideal for Businesses
 
