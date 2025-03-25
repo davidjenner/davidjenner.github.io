@@ -39,7 +39,7 @@ Transparency is key on Fiverr. Every freelancer provides upfront pricing and cle
 
 ## 📷 Inspiring Creativity Around the World
 
-![Freelancer at work](https://imgur.com/a/U6bAWLB)
+![Freelancer at work](/images/freelancer.jpg)
 
 Fiverr empowers creative professionals globally by giving them a platform to showcase their skills. It's a hub for innovation where freelancers can thrive and clients can benefit from their expertise.
 
