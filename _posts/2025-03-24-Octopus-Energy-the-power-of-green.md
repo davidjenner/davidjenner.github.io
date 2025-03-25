@@ -60,13 +60,6 @@ Octopus Energy is more than just a supplier—they’re a driving force behind t
 
 Want to know more about their green energy journey? Watch this video to see how Octopus Energy is transforming the way we power our lives.
 
-<!--
-## 📷 A Look at Green Energy
-
-![Wind Farm](https://via.placeholder.com/800x400)
-
-A glimpse of the clean, renewable energy that powers Octopus Energy's vision for a sustainable future.-->
-
 ---
 
 Switch to Octopus Energy today and join the green energy revolution. Start saving money and the planet by signing up through [this affiliate link](https://bit.ly/JoinOctopusEnergy). Together, we can create a brighter, greener future.
