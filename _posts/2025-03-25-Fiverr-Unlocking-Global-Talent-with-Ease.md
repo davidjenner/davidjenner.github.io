@@ -45,7 +45,7 @@ Fiverr empowers creative professionals globally by giving them a platform to sho
 
 ## 🎥 Discover Fiverr Through Video
 
-[![What is Fiverr?](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[![What is Fiverr?](https://img.youtube.com/vi/BGjAwdSr1Ok.jpg)](https://www.youtube.com/watch?v=BGjAwdSr1Ok)
 
 Watch this video to explore how Fiverr works and how it connects you with top-notch talent.
 
