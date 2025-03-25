@@ -36,7 +36,7 @@ This image captures the beauty of fresh ingredients that deserve a second chance
 
 ## 🎥 Explore Too Good To Go in Action
 
-[![What is Too Good To Go?](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[![What is Too Good To Go?](https://img.youtube.com/vi/r1xJDne1rNI.jpg)](https://www.youtube.com/watch?v=r1xJDne1rNI)
 
 Watch this video to see how Too Good To Go is revolutionizing the way we think about food waste.
 
