@@ -8,9 +8,6 @@ tags:
   - green energy
 ---
 
-Octopus Energy: Revolutionizing Renewable Energy
-======
-
 Octopus Energy is transforming the energy industry with its commitment to sustainability, affordability, and cutting-edge technology. With a mission to make energy fair, clean, and simple for all, they are setting a new standard for energy providers worldwide.
 
 ## 🌍 Why Go Green with Octopus Energy?
