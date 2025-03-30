@@ -1,5 +1,5 @@
 ---
-permalink: /gallery/
+permalink: /photography/
 title: "Photography Gallery"
 author_profile: true
 ---
