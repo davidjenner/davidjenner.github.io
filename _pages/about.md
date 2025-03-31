@@ -10,7 +10,7 @@ redirect_from:
 ## 🏠 Based in Bournemouth, UK  
 I'm an **IT Support Technician (2nd Line)** with **3 years of industry experience**, specialising in **Google Workspace, Microsoft 365, Azure, and IT Support**. I hold an **ITILv4 certification** and have a background in **web design and customer service**.  
 
-<img src="/images/profile-pic.png" alt="David Jenner profile picture" style="width:50%; border-radius:8px;" />
+<img src="/images/david-jenner-IT-Technician.jpg" alt="David Jenner statement photo" style="width:50%; border-radius:8px;" />
 
 ## 🎯 Career Goals  
 Currently seeking a **full-time, permanent IT role** within **Bournemouth or Poole** (on-site or hybrid). Passionate about **networking, cybersecurity, and ethical hacking**, which I actively study to enhance my technical expertise.  
