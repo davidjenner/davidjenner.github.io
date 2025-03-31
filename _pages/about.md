@@ -15,7 +15,7 @@ I'm an **IT Support Technician (2nd Line)** with **3 years of industry experienc
 ## 🎯 Career Goals  
 I am seeking a **full-time, permanent internal IT role** within **easy reach of central Bournemouth or Poole**. Flexible working arrangements, such as working from home one or two days a week, would be a bonus but are not essential. Ideally, I am looking to join a **large, well-established organisation** that offers **strong support and clear progression opportunities**. My salary expectation is **£30K–£32K**.  
 
-## 🌍 Where I've Travelled & Travel Goals  
+## 🌍 Where I've Travelled 
 I've travelled extensively across **Western and Central Europe**, visiting **France** and the **Canary Islands** multiple times. I spent **two months in Poland** and have explored the **Asia-Pacific region**, including **Thailand, Malaysia, Taiwan, Japan, South Korea**, and even reached the **border with North Korea**! In **Africa**, I've visited **Kenya and Morocco**, while my **North American** travels include **New York and Miami**. I've also been to **Colombia in South America**.  
 
 ## 🌟 Project: [haphazard.ai](https://haphazard.ai)  
@@ -46,7 +46,6 @@ I've travelled extensively across **Western and Central Europe**, visiting **Fra
 - **Team Player**: Collaborating across IT teams, sharing expertise, and learning from colleagues to ensure effective service delivery.  
 - **Independence & Initiative**: Handling mobile device management solo while also collaborating in team-based projects when needed.  - **Process Improvement**: Contributing the highest number of knowledge base articles within my team, especially on iPhones and iPads, to streamline troubleshooting.  
 
-
 ## 🎓 Education & Certifications  
 - **ITILv4 Foundation in IT Service Management** (PeopleCert, 2023)  
 - **BA (Hons) Graphic Communication** (University for the Creative Arts, 2011)  
@@ -55,6 +54,8 @@ I've travelled extensively across **Western and Central Europe**, visiting **Fra
 
 
 More details on **[LinkedIn](https://www.linkedin.com/in/davidjenner6)**.  
+
+
 
 <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="godavid" data-color="#FFDD00" data-emoji="☕"  data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
 ---
